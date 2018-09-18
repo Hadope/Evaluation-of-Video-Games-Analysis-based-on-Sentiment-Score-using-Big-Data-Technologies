@@ -1,0 +1,3 @@
+hive -e 'set hive.cli.print.header=true;select id,name,platform,eu_sales from vgsales where exists (select * from sentiment where positivesentiment>0 AND vgsales.id=sentiment.id) AND EU_Sales>7 ORDER BY EU_Sales;' | sed 's/[\t]/,/g' > Hive_output1.csv
+
+

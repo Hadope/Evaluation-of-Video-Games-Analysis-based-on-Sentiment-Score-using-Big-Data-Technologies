@@ -1,0 +1,2 @@
+hive -e 'set hive.cli.print.header=true;select id,name,genre,global_sales from vgsales where exists (select * from vgrating where critic_score>70 AND vgsales.id=vgrating.id) AND global_sales>30 ORDER BY global_Sales;' | sed 's/[\t]/,/g' > Hive_output3.csv
+

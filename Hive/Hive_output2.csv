@@ -1,0 +1,581 @@
+vgsales.id,vgsales.publisher,vgsales.global_sales,vgrating.critic_score,vgrating.user_score,vgrating.rating
+4,Nintendo,33,89,9,E
+4,Nintendo,33,89,9,E
+7,Nintendo,30,91,9,E
+7,Nintendo,30,91,9,E
+17,Take-Two Interactive,21,95,8,E
+17,Take-Two Interactive,21,95,8,E
+31,Nintendo,15,89,9,E
+31,Nintendo,15,89,9,E
+32,Activision,15,97,9,E
+32,Activision,15,97,9,E
+34,Activision,14,96,9,E
+34,Activision,14,96,9,E
+35,Activision,14,90,8,E
+35,Activision,14,90,8,E
+49,Nintendo,12,88,9,E
+49,Nintendo,12,88,9,E
+64,Nintendo,10,97,9,E
+64,Nintendo,10,97,9,E
+73,Microsoft Game Studios,9,91,9,E
+73,Microsoft Game Studios,9,91,9,E
+74,Nintendo,9,88,9,E
+74,Nintendo,9,88,9,E
+94,Activision,8,92,9,E
+94,Activision,8,92,9,E
+115,Electronic Arts,7,92,8,E
+115,Electronic Arts,7,92,8,E
+120,Sony Computer Entertainment,7,93,8,E
+120,Sony Computer Entertainment,7,93,8,E
+139,GT Interactive,6,90,8,E
+139,GT Interactive,6,90,8,E
+140,Microsoft Game Studios,6,89,8,E
+140,Microsoft Game Studios,6,89,8,E
+148,Square Enix,6,88,8,E
+148,Square Enix,6,88,8,E
+152,Virgin Interactive,6,88,9,E
+152,Virgin Interactive,6,88,9,E
+161,Microsoft Game Studios,6,96,9,E
+161,Microsoft Game Studios,6,96,9,E
+164,Nintendo,5,91,8,E
+164,Nintendo,5,91,8,E
+165,Nintendo,5,91,8,E
+165,Nintendo,5,91,8,E
+181,Square Enix,5,93,9,E
+181,Square Enix,5,93,9,E
+195,Microsoft Game Studios,5,95,8,E
+195,Microsoft Game Studios,5,95,8,E
+201,Nintendo,5,90,8,E
+201,Nintendo,5,90,8,E
+220,Electronic Arts,5,91,9,E
+220,Electronic Arts,5,91,9,E
+230,Eidos Interactive,5,91,9,E
+230,Eidos Interactive,5,91,9,E
+237,Sony Computer Entertainment,5,90,9,E
+237,Sony Computer Entertainment,5,90,9,E
+241,Electronic Arts,4,91,8,E
+241,Electronic Arts,4,91,8,E
+251,Take-Two Interactive,4,88,8,E
+251,Take-Two Interactive,4,88,8,E
+268,Activision,4,91,8,E
+268,Activision,4,91,8,E
+288,Bethesda Softworks,4,88,9,E
+288,Bethesda Softworks,4,88,9,E
+294,Sony Computer Entertainment,4,89,9,E
+294,Sony Computer Entertainment,4,89,9,E
+304,Electronic Arts,4,91,9,E
+304,Electronic Arts,4,91,9,E
+308,Ubisoft,4,94,8,E
+308,Ubisoft,4,94,8,E
+326,Virgin Interactive,4,93,9,E
+326,Virgin Interactive,4,93,9,E
+342,Nintendo,4,93,9,E
+342,Nintendo,4,93,9,E
+358,LucasArts,4,89,9,E
+358,LucasArts,4,89,9,E
+371,Sega,4,95,9,E
+371,Sega,4,95,9,E
+393,Electronic Arts,3,90,8,E
+393,Electronic Arts,3,90,8,E
+395,Warner Bros. Interactive Entertainment,3,90,8,E
+395,Warner Bros. Interactive Entertainment,3,90,8,E
+396,Konami Digital Entertainment,3,90,8,E
+396,Konami Digital Entertainment,3,90,8,E
+425,Square Enix,3,90,8,E
+425,Square Enix,3,90,8,E
+472,Warner Bros. Interactive Entertainment,3,88,9,E
+472,Warner Bros. Interactive Entertainment,3,88,9,E
+519,THQ,3,89,9,E
+519,THQ,3,89,9,E
+528,Sony Computer Entertainment,3,89,8,E
+528,Sony Computer Entertainment,3,89,8,E
+580,Sony Computer Entertainment,3,90,9,E
+580,Sony Computer Entertainment,3,90,9,E
+639,Nintendo,2,88,9,E
+639,Nintendo,2,88,9,E
+642,Sony Computer Entertainment,2,89,8,E
+642,Sony Computer Entertainment,2,89,8,E
+671,Microsoft Game Studios,2,92,9,E
+671,Microsoft Game Studios,2,92,9,E
+678,THQ,2,91,8,E
+678,THQ,2,91,8,E
+700,Ubisoft,2,92,9,E
+700,Ubisoft,2,92,9,E
+703,Electronic Arts,2,93,9,E
+703,Electronic Arts,2,93,9,E
+709,Sega,2,94,9,E
+709,Sega,2,94,9,E
+715,Sony Computer Entertainment Europe,2,93,8,E
+715,Sony Computer Entertainment Europe,2,93,8,E
+730,Nintendo,2,88,9,E
+730,Nintendo,2,88,9,E
+733,Ubisoft,2,92,9,E
+733,Ubisoft,2,92,9,E
+735,Electronic Arts,2,89,9,E
+735,Electronic Arts,2,89,9,E
+736,Parker Bros.,2,89,9,E
+736,Parker Bros.,2,89,9,E
+737,Activision,2,90,9,E
+737,Activision,2,90,9,E
+738,Nintendo,2,88,9,E
+738,Nintendo,2,88,9,E
+766,Nintendo,2,90,9,E
+766,Nintendo,2,90,9,E
+815,Electronic Arts,2,91,8,E
+815,Electronic Arts,2,91,8,E
+852,Midway Games,2,88,8,E
+852,Midway Games,2,88,8,E
+853,Activision,2,91,9,E
+853,Activision,2,91,9,E
+867,Take-Two Interactive,2,89,9,E
+867,Take-Two Interactive,2,89,9,E
+885,Ubisoft,2,88,8,E
+885,Ubisoft,2,88,8,E
+889,Acclaim Entertainment,2,88,8,E
+889,Acclaim Entertainment,2,88,8,E
+943,Namco Bandai Games,2,90,9,E
+943,Namco Bandai Games,2,90,9,E
+1053,Namco Bandai Games,2,89,8,E
+1053,Namco Bandai Games,2,89,8,E
+1073,Activision,2,90,9,E
+1073,Activision,2,90,9,E
+1076,Sony Computer Entertainment,2,92,9,E
+1076,Sony Computer Entertainment,2,92,9,E
+1092,Activision,2,95,8,E
+1092,Activision,2,95,8,E
+1192,Capcom,2,92,8,E
+1192,Capcom,2,92,8,E
+1200,Atari,2,88,9,E
+1200,Atari,2,88,9,E
+1219,Activision,2,88,9,E
+1219,Activision,2,88,9,E
+1230,Electronic Arts,2,89,9,E
+1230,Electronic Arts,2,89,9,E
+1248,Capcom,2,89,8,E
+1248,Capcom,2,89,8,E
+1253,Namco Bandai Games,2,92,8,E
+1253,Namco Bandai Games,2,92,8,E
+1268,Disney Interactive Studios,1,88,8,E
+1268,Disney Interactive Studios,1,88,8,E
+1343,Electronic Arts,1,88,9,E
+1343,Electronic Arts,1,88,9,E
+1444,Microsoft Game Studios,1,90,9,E
+1444,Microsoft Game Studios,1,90,9,E
+1546,3DO,1,88,9,E
+1546,3DO,1,88,9,E
+1573,Sega,1,89,9,E
+1573,Sega,1,89,9,E
+1691,THQ,1,94,9,E
+1691,THQ,1,94,9,E
+1790,Electronic Arts,1,90,8,E
+1790,Electronic Arts,1,90,8,E
+1796,Nintendo,1,91,8,E
+1796,Nintendo,1,91,8,E
+1802,Electronic Arts,1,92,8,E
+1802,Electronic Arts,1,92,8,E
+1837,RedOctane,1,92,9,E
+1837,RedOctane,1,92,9,E
+1867,Sony Computer Entertainment,1,89,9,E
+1867,Sony Computer Entertainment,1,89,9,E
+1870,Sony Computer Entertainment,1,89,8,E
+1870,Sony Computer Entertainment,1,89,8,E
+1940,Midway Games,1,89,9,E
+1940,Midway Games,1,89,9,E
+1985,Sega,1,88,8,E
+1985,Sega,1,88,8,E
+2003,Hudson Soft,1,88,8,E
+2003,Hudson Soft,1,88,8,E
+2013,Sony Computer Entertainment,1,89,8,E
+2013,Sony Computer Entertainment,1,89,8,E
+2100,Activision,1,90,9,E
+2100,Activision,1,90,9,E
+2126,Electronic Arts,1,90,8,E
+2126,Electronic Arts,1,90,8,E
+2221,Codemasters,1,91,9,E
+2221,Codemasters,1,91,9,E
+2289,Activision,1,89,8,E
+2289,Activision,1,89,8,E
+2360,Pinnacle,1,90,8,E
+2360,Pinnacle,1,90,8,E
+2377,TalonSoft,1,90,8,E
+2377,TalonSoft,1,90,8,E
+2392,Sega,1,94,8,E
+2392,Sega,1,94,8,E
+2444,Electronic Arts,1,88,9,E
+2444,Electronic Arts,1,88,9,E
+2598,20th Century Fox Video Games,1,89,8,E
+2598,20th Century Fox Video Games,1,89,8,E
+2645,Konami Digital Entertainment,1,89,8,E
+2645,Konami Digital Entertainment,1,89,8,E
+2657,Sony Computer Entertainment,1,88,9,E
+2657,Sony Computer Entertainment,1,88,9,E
+2692,Electronic Arts,1,88,9,E
+2692,Electronic Arts,1,88,9,E
+2697,Warner Bros. Interactive Entertainment,1,88,9,E
+2697,Warner Bros. Interactive Entertainment,1,88,9,E
+2725,Take-Two Interactive,1,92,9,E
+2725,Take-Two Interactive,1,92,9,E
+2731,Microsoft Game Studios,1,88,9,E
+2731,Microsoft Game Studios,1,88,9,E
+2744,GT Interactive,1,91,8,E
+2744,GT Interactive,1,91,8,E
+2750,Konami Digital Entertainment,1,88,9,E
+2750,Konami Digital Entertainment,1,88,9,E
+2894,Hasbro Interactive,1,92,9,E
+2894,Hasbro Interactive,1,92,9,E
+2912,Electronic Arts,1,90,9,E
+2912,Electronic Arts,1,90,9,E
+2942,Tigervision,1,92,9,E
+2942,Tigervision,1,92,9,E
+3049,Take-Two Interactive,1,91,9,E
+3049,Take-Two Interactive,1,91,9,E
+3114,Electronic Arts,1,89,9,E
+3114,Electronic Arts,1,89,9,E
+3171,Sony Computer Entertainment,1,91,9,E
+3171,Sony Computer Entertainment,1,91,9,E
+3205,Activision,1,88,9,E
+3205,Activision,1,88,9,E
+3229,Electronic Arts,1,89,9,E
+3229,Electronic Arts,1,89,9,E
+3366,Disney Interactive Studios,1,90,8,E
+3366,Disney Interactive Studios,1,90,8,E
+3402,MTV Games,1,88,8,E
+3402,MTV Games,1,88,8,E
+3567,Electronic Arts,1,89,9,E
+3567,Electronic Arts,1,89,9,E
+3665,3DO,1,89,9,E
+3665,3DO,1,89,9,E
+3847,Infogrames,1,88,8,E
+3847,Infogrames,1,88,8,E
+3884,Warner Bros. Interactive Entertainment,1,90,8,E
+3884,Warner Bros. Interactive Entertainment,1,90,8,E
+3912,Activision,1,88,9,E
+3912,Activision,1,88,9,E
+3969,Activision,1,92,8,E
+3969,Activision,1,92,8,E
+4006,Activision,1,92,9,E
+4006,Activision,1,92,9,E
+4046,Nintendo,0,91,8,E
+4046,Nintendo,0,91,8,E
+4064,City Interactive,0,89,8,E
+4064,City Interactive,0,89,8,E
+4106,System 3 Arcade Software,0,90,8,E
+4106,System 3 Arcade Software,0,90,8,E
+4,Nintendo,33,89,9,E
+4,Nintendo,33,89,9,E
+7,Nintendo,30,91,9,E
+7,Nintendo,30,91,9,E
+17,Take-Two Interactive,21,95,8,E
+17,Take-Two Interactive,21,95,8,E
+31,Nintendo,15,89,9,E
+31,Nintendo,15,89,9,E
+32,Activision,15,97,9,E
+32,Activision,15,97,9,E
+34,Activision,14,96,9,E
+34,Activision,14,96,9,E
+35,Activision,14,90,8,E
+35,Activision,14,90,8,E
+49,Nintendo,12,88,9,E
+49,Nintendo,12,88,9,E
+64,Nintendo,10,97,9,E
+64,Nintendo,10,97,9,E
+73,Microsoft Game Studios,9,91,9,E
+73,Microsoft Game Studios,9,91,9,E
+74,Nintendo,9,88,9,E
+74,Nintendo,9,88,9,E
+94,Activision,8,92,9,E
+94,Activision,8,92,9,E
+115,Electronic Arts,7,92,8,E
+115,Electronic Arts,7,92,8,E
+120,Sony Computer Entertainment,7,93,8,E
+120,Sony Computer Entertainment,7,93,8,E
+139,GT Interactive,6,90,8,E
+139,GT Interactive,6,90,8,E
+140,Microsoft Game Studios,6,89,8,E
+140,Microsoft Game Studios,6,89,8,E
+148,Square Enix,6,88,8,E
+148,Square Enix,6,88,8,E
+152,Virgin Interactive,6,88,9,E
+152,Virgin Interactive,6,88,9,E
+161,Microsoft Game Studios,6,96,9,E
+161,Microsoft Game Studios,6,96,9,E
+164,Nintendo,5,91,8,E
+164,Nintendo,5,91,8,E
+165,Nintendo,5,91,8,E
+165,Nintendo,5,91,8,E
+181,Square Enix,5,93,9,E
+181,Square Enix,5,93,9,E
+195,Microsoft Game Studios,5,95,8,E
+195,Microsoft Game Studios,5,95,8,E
+201,Nintendo,5,90,8,E
+201,Nintendo,5,90,8,E
+220,Electronic Arts,5,91,9,E
+220,Electronic Arts,5,91,9,E
+230,Eidos Interactive,5,91,9,E
+230,Eidos Interactive,5,91,9,E
+237,Sony Computer Entertainment,5,90,9,E
+237,Sony Computer Entertainment,5,90,9,E
+241,Electronic Arts,4,91,8,E
+241,Electronic Arts,4,91,8,E
+251,Take-Two Interactive,4,88,8,E
+251,Take-Two Interactive,4,88,8,E
+268,Activision,4,91,8,E
+268,Activision,4,91,8,E
+288,Bethesda Softworks,4,88,9,E
+288,Bethesda Softworks,4,88,9,E
+294,Sony Computer Entertainment,4,89,9,E
+294,Sony Computer Entertainment,4,89,9,E
+304,Electronic Arts,4,91,9,E
+304,Electronic Arts,4,91,9,E
+308,Ubisoft,4,94,8,E
+308,Ubisoft,4,94,8,E
+326,Virgin Interactive,4,93,9,E
+326,Virgin Interactive,4,93,9,E
+342,Nintendo,4,93,9,E
+342,Nintendo,4,93,9,E
+358,LucasArts,4,89,9,E
+358,LucasArts,4,89,9,E
+371,Sega,4,95,9,E
+371,Sega,4,95,9,E
+393,Electronic Arts,3,90,8,E
+393,Electronic Arts,3,90,8,E
+395,Warner Bros. Interactive Entertainment,3,90,8,E
+395,Warner Bros. Interactive Entertainment,3,90,8,E
+396,Konami Digital Entertainment,3,90,8,E
+396,Konami Digital Entertainment,3,90,8,E
+425,Square Enix,3,90,8,E
+425,Square Enix,3,90,8,E
+472,Warner Bros. Interactive Entertainment,3,88,9,E
+472,Warner Bros. Interactive Entertainment,3,88,9,E
+519,THQ,3,89,9,E
+519,THQ,3,89,9,E
+528,Sony Computer Entertainment,3,89,8,E
+528,Sony Computer Entertainment,3,89,8,E
+580,Sony Computer Entertainment,3,90,9,E
+580,Sony Computer Entertainment,3,90,9,E
+639,Nintendo,2,88,9,E
+639,Nintendo,2,88,9,E
+642,Sony Computer Entertainment,2,89,8,E
+642,Sony Computer Entertainment,2,89,8,E
+671,Microsoft Game Studios,2,92,9,E
+671,Microsoft Game Studios,2,92,9,E
+678,THQ,2,91,8,E
+678,THQ,2,91,8,E
+700,Ubisoft,2,92,9,E
+700,Ubisoft,2,92,9,E
+703,Electronic Arts,2,93,9,E
+703,Electronic Arts,2,93,9,E
+709,Sega,2,94,9,E
+709,Sega,2,94,9,E
+715,Sony Computer Entertainment Europe,2,93,8,E
+715,Sony Computer Entertainment Europe,2,93,8,E
+730,Nintendo,2,88,9,E
+730,Nintendo,2,88,9,E
+733,Ubisoft,2,92,9,E
+733,Ubisoft,2,92,9,E
+735,Electronic Arts,2,89,9,E
+735,Electronic Arts,2,89,9,E
+736,Parker Bros.,2,89,9,E
+736,Parker Bros.,2,89,9,E
+737,Activision,2,90,9,E
+737,Activision,2,90,9,E
+738,Nintendo,2,88,9,E
+738,Nintendo,2,88,9,E
+766,Nintendo,2,90,9,E
+766,Nintendo,2,90,9,E
+815,Electronic Arts,2,91,8,E
+815,Electronic Arts,2,91,8,E
+852,Midway Games,2,88,8,E
+852,Midway Games,2,88,8,E
+853,Activision,2,91,9,E
+853,Activision,2,91,9,E
+867,Take-Two Interactive,2,89,9,E
+867,Take-Two Interactive,2,89,9,E
+885,Ubisoft,2,88,8,E
+885,Ubisoft,2,88,8,E
+889,Acclaim Entertainment,2,88,8,E
+889,Acclaim Entertainment,2,88,8,E
+943,Namco Bandai Games,2,90,9,E
+943,Namco Bandai Games,2,90,9,E
+1053,Namco Bandai Games,2,89,8,E
+1053,Namco Bandai Games,2,89,8,E
+1073,Activision,2,90,9,E
+1073,Activision,2,90,9,E
+1076,Sony Computer Entertainment,2,92,9,E
+1076,Sony Computer Entertainment,2,92,9,E
+1092,Activision,2,95,8,E
+1092,Activision,2,95,8,E
+1192,Capcom,2,92,8,E
+1192,Capcom,2,92,8,E
+1200,Atari,2,88,9,E
+1200,Atari,2,88,9,E
+1219,Activision,2,88,9,E
+1219,Activision,2,88,9,E
+1230,Electronic Arts,2,89,9,E
+1230,Electronic Arts,2,89,9,E
+1248,Capcom,2,89,8,E
+1248,Capcom,2,89,8,E
+1253,Namco Bandai Games,2,92,8,E
+1253,Namco Bandai Games,2,92,8,E
+1268,Disney Interactive Studios,1,88,8,E
+1268,Disney Interactive Studios,1,88,8,E
+1343,Electronic Arts,1,88,9,E
+1343,Electronic Arts,1,88,9,E
+1444,Microsoft Game Studios,1,90,9,E
+1444,Microsoft Game Studios,1,90,9,E
+1546,3DO,1,88,9,E
+1546,3DO,1,88,9,E
+1573,Sega,1,89,9,E
+1573,Sega,1,89,9,E
+1691,THQ,1,94,9,E
+1691,THQ,1,94,9,E
+1790,Electronic Arts,1,90,8,E
+1790,Electronic Arts,1,90,8,E
+1796,Nintendo,1,91,8,E
+1796,Nintendo,1,91,8,E
+1802,Electronic Arts,1,92,8,E
+1802,Electronic Arts,1,92,8,E
+1837,RedOctane,1,92,9,E
+1837,RedOctane,1,92,9,E
+1867,Sony Computer Entertainment,1,89,9,E
+1867,Sony Computer Entertainment,1,89,9,E
+1870,Sony Computer Entertainment,1,89,8,E
+1870,Sony Computer Entertainment,1,89,8,E
+1940,Midway Games,1,89,9,E
+1940,Midway Games,1,89,9,E
+1985,Sega,1,88,8,E
+1985,Sega,1,88,8,E
+2003,Hudson Soft,1,88,8,E
+2003,Hudson Soft,1,88,8,E
+2013,Sony Computer Entertainment,1,89,8,E
+2013,Sony Computer Entertainment,1,89,8,E
+2100,Activision,1,90,9,E
+2100,Activision,1,90,9,E
+2126,Electronic Arts,1,90,8,E
+2126,Electronic Arts,1,90,8,E
+2221,Codemasters,1,91,9,E
+2221,Codemasters,1,91,9,E
+2289,Activision,1,89,8,E
+2289,Activision,1,89,8,E
+2360,Pinnacle,1,90,8,E
+2360,Pinnacle,1,90,8,E
+2377,TalonSoft,1,90,8,E
+2377,TalonSoft,1,90,8,E
+2392,Sega,1,94,8,E
+2392,Sega,1,94,8,E
+2444,Electronic Arts,1,88,9,E
+2444,Electronic Arts,1,88,9,E
+2598,20th Century Fox Video Games,1,89,8,E
+2598,20th Century Fox Video Games,1,89,8,E
+2645,Konami Digital Entertainment,1,89,8,E
+2645,Konami Digital Entertainment,1,89,8,E
+2657,Sony Computer Entertainment,1,88,9,E
+2657,Sony Computer Entertainment,1,88,9,E
+2692,Electronic Arts,1,88,9,E
+2692,Electronic Arts,1,88,9,E
+2697,Warner Bros. Interactive Entertainment,1,88,9,E
+2697,Warner Bros. Interactive Entertainment,1,88,9,E
+2725,Take-Two Interactive,1,92,9,E
+2725,Take-Two Interactive,1,92,9,E
+2731,Microsoft Game Studios,1,88,9,E
+2731,Microsoft Game Studios,1,88,9,E
+2744,GT Interactive,1,91,8,E
+2744,GT Interactive,1,91,8,E
+2750,Konami Digital Entertainment,1,88,9,E
+2750,Konami Digital Entertainment,1,88,9,E
+2894,Hasbro Interactive,1,92,9,E
+2894,Hasbro Interactive,1,92,9,E
+2912,Electronic Arts,1,90,9,E
+2912,Electronic Arts,1,90,9,E
+2942,Tigervision,1,92,9,E
+2942,Tigervision,1,92,9,E
+3049,Take-Two Interactive,1,91,9,E
+3049,Take-Two Interactive,1,91,9,E
+3114,Electronic Arts,1,89,9,E
+3114,Electronic Arts,1,89,9,E
+3171,Sony Computer Entertainment,1,91,9,E
+3171,Sony Computer Entertainment,1,91,9,E
+3205,Activision,1,88,9,E
+3205,Activision,1,88,9,E
+3229,Electronic Arts,1,89,9,E
+3229,Electronic Arts,1,89,9,E
+3366,Disney Interactive Studios,1,90,8,E
+3366,Disney Interactive Studios,1,90,8,E
+3402,MTV Games,1,88,8,E
+3402,MTV Games,1,88,8,E
+3567,Electronic Arts,1,89,9,E
+3567,Electronic Arts,1,89,9,E
+3665,3DO,1,89,9,E
+3665,3DO,1,89,9,E
+3847,Infogrames,1,88,8,E
+3847,Infogrames,1,88,8,E
+3884,Warner Bros. Interactive Entertainment,1,90,8,E
+3884,Warner Bros. Interactive Entertainment,1,90,8,E
+3912,Activision,1,88,9,E
+3912,Activision,1,88,9,E
+3969,Activision,1,92,8,E
+3969,Activision,1,92,8,E
+4006,Activision,1,92,9,E
+4006,Activision,1,92,9,E
+4046,Nintendo,0,91,8,E
+4046,Nintendo,0,91,8,E
+4064,City Interactive,0,89,8,E
+4064,City Interactive,0,89,8,E
+4106,System 3 Arcade Software,0,90,8,E
+4106,System 3 Arcade Software,0,90,8,E
+4568,D3Publisher,0,89,8,E
+4568,D3Publisher,0,89,8,E
+4590,Nintendo,0,89,9,E
+4590,Nintendo,0,89,9,E
+4598,Electronic Arts,0,89,8,E
+4598,Electronic Arts,0,89,8,E
+4635,Ubisoft,0,89,9,E
+4635,Ubisoft,0,89,9,E
+4774,Electronic Arts,0,90,8,E
+4774,Electronic Arts,0,90,8,E
+5024,Electronic Arts,0,89,9,E
+5024,Electronic Arts,0,89,9,E
+5035,SquareSoft,0,90,8,E
+5035,SquareSoft,0,90,8,E
+5148,Nintendo,0,88,8,E
+5148,Nintendo,0,88,8,E
+5353,Zoo Digital Publishing,0,88,8,E
+5353,Zoo Digital Publishing,0,88,8,E
+5471,Universal Interactive,0,90,8,E
+5471,Universal Interactive,0,90,8,E
+5566,Starpath Corp.,0,90,8,E
+5566,Starpath Corp.,0,90,8,E
+5802,Mattel Interactive,0,88,8,E
+5802,Mattel Interactive,0,88,8,E
+6338,THQ,0,90,9,E
+6338,THQ,0,90,9,E
+6596,Eidos Interactive,0,93,9,E
+6596,Eidos Interactive,0,93,9,E
+4568,D3Publisher,0,89,8,E
+4568,D3Publisher,0,89,8,E
+4590,Nintendo,0,89,9,E
+4590,Nintendo,0,89,9,E
+4598,Electronic Arts,0,89,8,E
+4598,Electronic Arts,0,89,8,E
+4635,Ubisoft,0,89,9,E
+4635,Ubisoft,0,89,9,E
+4774,Electronic Arts,0,90,8,E
+4774,Electronic Arts,0,90,8,E
+5024,Electronic Arts,0,89,9,E
+5024,Electronic Arts,0,89,9,E
+5035,SquareSoft,0,90,8,E
+5035,SquareSoft,0,90,8,E
+5148,Nintendo,0,88,8,E
+5148,Nintendo,0,88,8,E
+5353,Zoo Digital Publishing,0,88,8,E
+5353,Zoo Digital Publishing,0,88,8,E
+5471,Universal Interactive,0,90,8,E
+5471,Universal Interactive,0,90,8,E
+5566,Starpath Corp.,0,90,8,E
+5566,Starpath Corp.,0,90,8,E
+5802,Mattel Interactive,0,88,8,E
+5802,Mattel Interactive,0,88,8,E
+6338,THQ,0,90,9,E
+6338,THQ,0,90,9,E
+6596,Eidos Interactive,0,93,9,E
+6596,Eidos Interactive,0,93,9,E

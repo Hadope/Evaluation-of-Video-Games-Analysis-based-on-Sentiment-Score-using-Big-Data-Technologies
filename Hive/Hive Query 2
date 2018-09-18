@@ -1,0 +1,2 @@
+hive -e 'set hive.cli.print.header=true;select id,publisher,global_sales from vgsales INNER JOIN vgrating ON vgsales.id=vgrating.id where (critic_score>87 AND User_Score>7 AND Rating='E');' | sed 's/[\t]/,/g' > Hive_output2.csv
+
